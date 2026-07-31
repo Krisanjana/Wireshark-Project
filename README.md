@@ -21,6 +21,8 @@ In this project, I use Wireshark to detect and investigate malware traffic. Iden
 
 # Pre-requisites
 
-Understanding Networking Concept
-wireshark installed in safe environment (vmaware , kali)
-Sample malware PCAP file downloaded from (https://www.malware-traffic-analysis.net/)
+- Understanding Networking Concept
+
+- wireshark installed in safe environment (vmaware , kali)
+
+- Sample malware PCAP file downloaded from (https://www.malware-traffic-analysis.net/)
