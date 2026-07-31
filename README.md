@@ -9,13 +9,16 @@ In this project, I use Wireshark to detect and investigate malware traffic. Iden
 
 # Skills learned
 
----
-
 -Malware Analysis Lab Setup
+
 -Malware Analysis
+
 -Suspecious link Analysis
+
 -Detecting and Analyzing malware
+
 -Static Malware Analysis
+
 -Dynamic Malware Analysis
 
 ---
