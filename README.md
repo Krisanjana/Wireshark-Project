@@ -2,26 +2,22 @@
 
 ## Detecting and Investigating Malware Traffic
 
----
-
 # Introduction
 In this project, I use Wireshark to detect and investigate malware traffic. Identifying malicious network behavior is crucial for protecting networks and responding to security incidents.
 
 # Skills learned
 
--Malware Analysis Lab Setup
+- Malware Analysis Lab Setup
 
--Malware Analysis
+- Malware Analysis
 
--Suspecious link Analysis
+- Suspecious link Analysis
 
--Detecting and Analyzing malware
+- Detecting and Analyzing malware
 
--Static Malware Analysis
+- Static Malware Analysis
 
--Dynamic Malware Analysis
-
----
+- Dynamic Malware Analysis
 
 # Pre-requisites
 
