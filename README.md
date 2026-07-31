@@ -1,21 +1,28 @@
 # Wireshark-Project
 
-## Detecting and Investigating Malware Traffic
+## Detecting and Investigating Network Port Scanning (Reconnaissance Attack)
 
 # Introduction
-In this project, I use Wireshark to detect and investigate malware traffic. Identifying malicious network behavior is crucial for protecting networks and responding to security incidents.
 
-# Skills learned
+In this project, I use Wireshark to detect and investigate a network port scan — one of the earliest stages of a cyberattack known as reconnaissance. Attackers use port scanning to discover open ports and running services on a target machine before launching a real attack. Identifying this behavior early is critical for network defense.
 
-- Malware Analysis Lab Setup
-- Malware Analysis
-- Suspecious link Analysis
-- Detecting and Analyzing malware
-- Static Malware Analysis
-- Dynamic Malware Analysis
+# Skills Learned
+
+- Network Reconnaissance Detection
+- TCP/IP Traffic Analysis
+- Port Scan Pattern Recognition (SYN Scan, NULL Scan, XMAS Scan)
+- IP Geolocation & Threat Intelligence Lookup
+- Writing Incident Reports
 
 # Pre-requisites
 
-- Understanding Networking Concept
-- wireshark installed in safe environment (vmaware , kali)
-- Sample malware PCAP file downloaded from (https://www.malware-traffic-analysis.net/)
+- Basic understanding of TCP/IP and networking concepts
+- Wireshark installed in a safe environment (VMware, VirtualBox, Kali Linux)
+- Sample PCAP file downloaded from: https://www.malware-traffic-analysis.net/ or https://www.pcapr.net/
+
+# Lab Setup and Tools
+
+Wireshark: Download and install from https://www.wireshark.org/download.html
+VirusTotal: https://www.virustotal.com — for IP reputation lookup
+AbuseIPDB: https://www.abuseipdb.com — to check if the scanning IP is blacklisted
+Sample PCAP File: A capture file containing port scan traffic for analysis
