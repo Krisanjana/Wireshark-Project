@@ -23,6 +23,9 @@ In this project, I use Wireshark to detect and investigate a network port scan �
 # Lab Setup and Tools
 
 Wireshark: Download and install from https://www.wireshark.org/download.html
+
 VirusTotal: https://www.virustotal.com — for IP reputation lookup
+
 AbuseIPDB: https://www.abuseipdb.com — to check if the scanning IP is blacklisted
+
 Sample PCAP File: A capture file containing port scan traffic for analysis
